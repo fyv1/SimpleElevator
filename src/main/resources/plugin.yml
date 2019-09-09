@@ -1,9 +1,9 @@
 name: SimpleElevator
-version: 1.0
+version: 1.1
 author: fyv
 website: https://dev.bukkit.org/projects/simpleelevator
 
-main:  pl.fyv.mc.simpleelevator.SimpleElevator
+main: pl.fyv.mc.simpleelevator.SimpleElevator
 api-version: 1.14
 commands:
 
